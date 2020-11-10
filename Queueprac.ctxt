@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Queueprac
+comment1.params=length
+comment1.target=void\ ArrayQueue(int)
+comment2.params=
+comment2.target=boolean\ isEmpty()
+comment3.params=item
+comment3.target=void\ enqueue(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ dequeue()
+comment5.params=capacity
+comment5.target=void\ resize(int)
+numComments=6
